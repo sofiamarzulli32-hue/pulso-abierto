@@ -81,11 +81,11 @@ La aplicación utiliza React Router. Se incluye `vercel.json` con una regla de r
 
 ## URL pública
 
-**Vercel:** completar después del despliegue: `https://TU-PROYECTO.vercel.app`
+https://pulso-abierto-ruddy.vercel.app/
 
 ## Repositorio
 
-**GitHub:** completar con la URL del repositorio utilizado para la entrega.
+https://github.com/sofiamarzulli32-hue/pulso-abierto
 
 ## Mejora de mantenibilidad realizada en la versión final
 
@@ -110,11 +110,9 @@ git push
 
 ## Verificación final
 
-- Pruebas ejecutadas: `npm run test`
-- Build generado: `npm run build`
-- Preview productivo: `npm run preview`
-- Recorridos revisados: consulta de precios, navegación listado/detalle, favoritos entre vistas, persistencia después de recargar y validación del formulario.
-- Despliegue en Vercel: **pendiente de completar desde la cuenta de la estudiante**.
-- Fecha de verificación: **21/11/2026**.
-
-> Después del despliegue, reemplazar las URLs pendientes de GitHub y Vercel y actualizar “Despliegue en Vercel” a “realizado”.
+- Pruebas ejecutadas: 5 pruebas superadas en 3 archivos de test.
+- Build generado correctamente: Sí.
+- Preview comprobado: Sí.
+- Despliegue realizado: Sí.
+- URL pública: https://pulso-abierto-ruddy.vercel.app/
+- Fecha de verificación: 23/11/2026.
